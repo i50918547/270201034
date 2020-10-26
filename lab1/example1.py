@@ -1,4 +1,6 @@
-print("Hello World!")
 
 
 
+word = "obj"
+
+len(word) 
