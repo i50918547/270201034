@@ -23,7 +23,7 @@ def get_password_level(pw):
   
   return level
 
-def main():
+def main()
   pw = input("Enter password:")
   print("Security level:", get_password_level(pw))
 
